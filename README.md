@@ -95,4 +95,4 @@ Test employee CRUD and statistics.
 Malahima Amir
 
 🌐 Related Repo
-👉 Frontend Repository: Provide link here (when ready)
+👉 Frontend Repository: Provide link here (https://github.com/malahimaamir/ecommerce-dashboard.git)
